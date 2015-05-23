@@ -34,6 +34,8 @@
     <string name="info_deliverers_unavailable">Deliverers are not available. Please retry</string>
     <string name="action_logout">Log Out</string>
     <string name="action_on_standby">Standby</string>
+
+    <string name="hello_world">Hello world!</string>
     <!-- Messages -->
 
 </resources>

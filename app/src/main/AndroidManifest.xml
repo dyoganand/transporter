@@ -33,6 +33,10 @@
             android:name=".StandbyActivity"
             android:label="@string/title_activity_standby" >
         </activity>
+        <activity
+            android:name=".RequestSummaryActivity"
+            android:label="@string/title_activity_request_summary" >
+        </activity>
     </application>
 
 </manifest>
