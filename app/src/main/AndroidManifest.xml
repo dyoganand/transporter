@@ -37,6 +37,14 @@
             android:name=".RequestSummaryActivity"
             android:label="@string/title_activity_request_summary" >
         </activity>
+        <activity
+            android:name=".RequestDetailsActivity"
+            android:label="@string/title_activity_request_details" >
+        </activity>
+        <activity
+            android:name=".AllRequestsActivity"
+            android:label="@string/title_activity_all_requests" >
+        </activity>
     </application>
 
 </manifest>
