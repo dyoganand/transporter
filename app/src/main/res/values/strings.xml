@@ -4,8 +4,25 @@
     <string name="apikey_file">com.transporter.deliverer.APIKEY_FILE</string>
     <string name="saved_apikey">ENCODED_APIKEY</string>
 
+    <!-- Menu actions -->
+    <string name="action_settings">Settings</string>
+    <string name="action_view_all_requests">All Requests</string>
+    <!-- Menu actions -->
 
+    <!-- Messages -->
+    <string name="error_invalid_email">The email is invalid</string>
     <string name="error_invalid_credentials">Invalid credentials</string>
     <string name="server_error">Server error occurred. Please retry.</string>
+    <string name="error_blank_field">This field cannot be empty</string>
+    <string name="error_invalid_phone">Invalid phone number</string>
+    <string name="error_email_already_exists">Email is already registered</string>
+    <string name="error_phone_already_exists">Number is already registered</string>
+    <string name="success_signup">You have successfully signed up</string>
+    <!-- Messages -->
+
+    <!-- Activity titles -->
+    <string name="title_activity_signup">Sign up</string>
+    <string name="title_activity_log_in">Transporter</string>
+    <!-- Activity titles -->
 
 </resources>
